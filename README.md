@@ -8,4 +8,4 @@ I think I would properly need to improve the sequence diagram by adding the fail
 
  By following along with interview transcript. The needs and ideas of the system were clearly laid out.
  
- following an agile model working within a SCRUM team. The project is broken down into smaller parts and divided between the strengths of the team members.
+The approach I would choose is the agile model working within a SCRUM team. The project is broken down into smaller parts and divided between the strengths of the team members.
